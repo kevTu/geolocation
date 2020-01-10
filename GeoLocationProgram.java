@@ -22,8 +22,8 @@ public class GeoLocationProgram extends Application {
 		private Button btLocate;
 		private TextArea outputBox;
 		private final String URL = "";
-		private final String USER = "readonly";
-		private final String PASS = "readonly";
+		private final String USER = "";
+		private final String PASS = "";
 		
 		public GeoLocationGui() {
 			buildGui();
